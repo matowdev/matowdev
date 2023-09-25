@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sergey!</h1>
-<h3 align="center">Aspiring web developer dedicated to relentless growth and continuous improvement.</h3>
+<h3 align="center">Aspiring web developer dedicated to relentless growth and continuous improvement 🚀</h3>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s2kdev&column=-1&theme=nord&margin-w=15&margin-h=15&no-bg=true&title=Commits,Followers,Stars,Repositories" alt="s2kdev" /></a></p>
 
 <!-- <p align="left"> <a href="https://twitter.com/millennialll" target="blank"><img src="https://img.shields.io/twitter/follow/millennialll?logo=twitter&style=for-the-badge" alt="millennialll" /></a> </p> -->
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning: **JavaScript**
 
-- 👨‍💻 All of my main projects are available at [fullstack-js-by-skillbox](https://github.com/s2kdev/fullstack-js-by-skillbox#fullstack-js-by-skillbox)
+- 👨‍💻 All of my main projects are available at.. [fullstack-js-by-skillbox](https://github.com/s2kdev/fullstack-js-by-skillbox#fullstack-js-by-skillbox)
 
-- 💬 Ask me about **Html, CSS**
+- 💬 Ask me about: **Html, CSS**
 
-- 📫 How to reach me **s2k.wdev@gmail.com**
+- 📫 How to reach me: **s2k.wdev@gmail.com**
 
 <!-- - 📄 Know about my experiences [..](..) -->
 
-- ⚡ Fun fact **worked a year without a day off**
+- ⚡ Fun fact: **worked a year without a day off** 🤪
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
