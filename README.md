@@ -15,7 +15,7 @@
 
 <!-- - 📄 Know about my experiences [..](..) -->
 
-- ⚡ Fun fact: **worked a year without a day off** 🤪
+- ⚡ Fun fact: **worked eight months without a day off** 🤪
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
