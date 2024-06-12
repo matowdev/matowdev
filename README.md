@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning: **JavaScript**
 
-- 👨‍💻 All of my main projects are available at.. [fullstack-js-by-skillbox](https://github.com/s2kdev/fullstack-js-by-skillbox#fullstack-js-by-skillbox)
+- 👨‍💻 All of my main projects are available at.. [fullstack-js-by-skillbox](https://github.com/matowdev/fullstack-js-by-skillbox#fullstack-js-by-skillbox)
 
 - 💬 Ask me about: **Html, CSS**
 
-- 📫 How to reach me: **s2k.wdev@gmail.com**
+- 📫 How to reach me: **mato.wdev@gmail.com**
 
 <!-- - 📄 Know about my experiences [..](..) -->
 
@@ -19,11 +19,11 @@
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/s2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s2k" height="30" width="40" /></a>
-<a href="https://dev.to/sergeys2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sergeys2k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mato" height="30" width="40" /></a>
+<a href="https://dev.to/mato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mato" height="30" width="40" /></a>
 <a href="https://twitter.com/millennialll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="millennialll" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15590921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15590921" height="30" width="40" /></a>
-<a href="https://codepen.io/sergey_s2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sergey_s2k" height="30" width="40" /></a>
+<a href="https://codepen.io/mato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mato" height="30" width="40" /></a>
 </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,6 +36,6 @@
 </p>
 
 <div>
-<p><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=s2kdev&show_icons=true&locale=en" alt="s2kdev" /></p>
-<p>&nbsp;&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=s2kdev&show_icons=true&locale=en&layout=compact" alt="s2kdev" /></p>
+<p><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=matowdev&show_icons=true&locale=en" alt="matowdev" /></p>
+<p>&nbsp;&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=matowdev&show_icons=true&locale=en&layout=compact" alt="matowdev" /></p>
 </div>
