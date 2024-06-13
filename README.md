@@ -7,9 +7,13 @@
 
 - 🌱 I’m currently learning: **JavaScript**
 
-- 👨‍💻 All of my main projects are available at.. [fullstack-js-by-skillbox](https://github.com/matowdev/fullstack-js-by-skillbox#fullstack-js-by-skillbox)
+- 👨‍💻 All my learning projects are presented on the following pages/repo:
 
-- 💬 Ask me about: **Html, CSS**
+  - [fullstack-js-by-skillbox](https://github.com/matowdev/fullstack-js-by-skillbox#fullstack-js-by-skillbox)
+  - [the-odin-project](https://github.com/matowdev/the-odin-project?tab=readme-ov-file#the-odin-project)
+  - [learning-from-books](https://github.com/matowdev/learning-from-books?tab=readme-ov-file#learning-from-books)
+
+- 💬 Ask me about/basic: **Html, CSS, JS**
 
 - 📫 How to reach me: **mato.wdev@gmail.com**
 
@@ -27,12 +31,14 @@
 </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>  
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/matowdev/draft/69d42efb36dc4ae031520788c346c3f3b4f74d03/images/html-icon.svg" width="46" height="46" alt="html5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/matowdev/draft/69d42efb36dc4ae031520788c346c3f3b4f74d03/images/css-icon.svg" width="46" height="46" alt="css3" style="padding-right: 5px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/matowdev/draft/3b3415aa8e986677a4a93f3a3504d90c57efbbaa/images/js-icon-2.svg" width="39" height="39" alt="JavaScript" style="padding-right: 10px;"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/matowdev/draft/481e2d2e667ea29ac904e41ba91628841f4ecf11/images/git-icon-2.svg" alt="git" width="39" height="39" style="padding-right: 5px;"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/matowdev/draft/95769474d933033f653083f50cd81255c1e8ce5e/images/figma-icon.svg" alt="figma" width="39" height="39"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/matowdev/draft/95769474d933033f653083f50cd81255c1e8ce5e/images/bootstrap-icon.svg" alt="bootstrap" width="42" height="42"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/matowdev/draft/95769474d933033f653083f50cd81255c1e8ce5e/images/vscode-icon.svg" width="42" height="42" alt="VS Code" /></a>
 </p>
 
 <div>
