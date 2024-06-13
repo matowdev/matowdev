@@ -32,14 +32,30 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><span style="display: inline-block; margin-right: 10px;"><img src="https://raw.githubusercontent.com/matowdev/draft/3b3415aa8e986677a4a93f3a3504d90c57efbbaa/images/js-icon-2.svg" width="39" height="39" alt="JavaScript"/></span></a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML" target="_blank" rel="noreferrer">
-<span style="display: inline-block;"><img src="https://raw.githubusercontent.com/matowdev/draft/69d42efb36dc4ae031520788c346c3f3b4f74d03/images/html-icon.svg" width="46" height="46" alt="html5"/></span></a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps" target="_blank" rel="noreferrer"><span style="display: inline-block; margin-right: 5px;"><img src="https://raw.githubusercontent.com/matowdev/draft/69d42efb36dc4ae031520788c346c3f3b4f74d03/images/css-icon.svg" width="46" height="46" alt="css3"/></span></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><span style="display: inline-block; margin-right: 10px;"><img src="https://raw.githubusercontent.com/matowdev/draft/481e2d2e667ea29ac904e41ba91628841f4ecf11/images/git-icon-2.svg" alt="git" width="39" height="39""/></span></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><span style="display: inline-block; margin-right: 5px;"><img src="https://raw.githubusercontent.com/matowdev/draft/95769474d933033f653083f50cd81255c1e8ce5e/images/figma-icon.svg" alt="figma" width="39" height="39"/></span></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><span style="display: inline-block; margin-right: 10px;"><img src="https://raw.githubusercontent.com/matowdev/draft/95769474d933033f653083f50cd81255c1e8ce5e/images/bootstrap-icon.svg" alt="bootstrap" width="42" height="42"/></span></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><span style="display: inline-block; margin-right: 10px;"><img src="https://raw.githubusercontent.com/matowdev/draft/95769474d933033f653083f50cd81255c1e8ce5e/images/vscode-icon.svg" width="42" height="42" alt="VS Code" /></span></a>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/matowdev/draft/69d42efb36dc4ae031520788c346c3f3b4f74d03/images/html-icon.svg" width="46" height="46" alt="html5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/matowdev/draft/69d42efb36dc4ae031520788c346c3f3b4f74d03/images/css-icon.svg" width="46" height="46" alt="css3" style="margin-right: 5px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/matowdev/draft/3b3415aa8e986677a4a93f3a3504d90c57efbbaa/images/js-icon-2.svg" width="39" height="39" alt="JavaScript" style="margin-right: 15px;"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/matowdev/draft/481e2d2e667ea29ac904e41ba91628841f4ecf11/images/git-icon-2.svg" alt="git" width="39" height="39" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/matowdev/draft/95769474d933033f653083f50cd81255c1e8ce5e/images/figma-icon.svg" alt="figma" width="39" height="39" style="margin-right: 5px;"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/matowdev/draft/95769474d933033f653083f50cd81255c1e8ce5e/images/bootstrap-icon.svg" alt="bootstrap" width="42" height="42" style="margin-right: 5px;"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/matowdev/draft/95769474d933033f653083f50cd81255c1e8ce5e/images/vscode-icon.svg" width="42" height="42" alt="VS Code" style="margin-right: 10px;"/>
+  </a>
+</p>
+
 </p>
 
 <div>
