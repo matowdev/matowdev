@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sergey!</h1>
-<h3 align="center">Junior Front-end Developer dedicated to relentless growth and continuous improvement 🚀</h3>
+<h3 align="center">Junior Full-stack Developer dedicated to relentless growth and continuous improvement 🚀</h3>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=matowdev&column=-1&theme=onedark&margin-w=15&margin-h=15&no-bg=true&title=Commits,Followers,Stars,Repositories" alt="matowdev" /></a></p>
 
 <!-- <p align="left"> <a href="https://twitter.com/millennialll" target="blank"><img src="https://img.shields.io/twitter/follow/millennialll?logo=twitter&style=for-the-badge" alt="millennialll" /></a> </p> -->
 
-- 🌱 I’m currently learning: **JavaScript**
+- 🌱 I’m currently learning/path: **Full-stack developer**
 
 - 👨‍💻 All my learning projects are presented on the following pages/repo:
 
-  - [fullstack-js-by-skillbox](https://github.com/matowdev/fullstack-js-by-skillbox#fullstack-js-by-skillbox)
+  - [full-stack-dev-by-purple-school](https://github.com/matowdev/purple-school?tab=readme-ov-file#purple-school)
+  - [full-stack-js-by-skillbox](https://github.com/matowdev/fullstack-js-by-skillbox#fullstack-js-by-skillbox)
   - [the-odin-project](https://github.com/matowdev/the-odin-project?tab=readme-ov-file#the-odin-project)
   - [learning-from-books](https://github.com/matowdev/learning-from-books?tab=readme-ov-file#learning-from-books)
 
-- 💬 Ask me about/basic: **Html, CSS, JS**
+- 💬 Ask me about/basic: **Html, CSS, JS.. Git**
 
 - 📫 How to reach me: **mato.wdev@gmail.com**
 
