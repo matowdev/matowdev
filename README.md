@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/millennialll" target="blank"><img src="https://img.shields.io/twitter/follow/millennialll?logo=twitter&style=for-the-badge" alt="millennialll" /></a> </p> -->
 
-- 🌱 I’m currently learning/path: **Full-stack developer | React / Node.js**
+- 🌱 I’m currently learning/path: **Full-stack developer.. React / Node.js**
 
 - 👨‍💻 All my learning projects are presented on the following pages/repo:
 
