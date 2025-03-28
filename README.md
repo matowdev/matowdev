@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergey!</h1>
-<h3 align="center">Junior Full-stack Developer dedicated to relentless growth and continuous improvement 🚀</h3>
+<h3 align="center">Junior Full-stack Web Developer dedicated to relentless growth and continuous improvement 🚀</h3>
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=matowdev&column=-1&theme=onedark&margin-w=15&margin-h=15&no-bg=true&title=Commits,Followers,Stars,Repositories" alt="matowdev" /></a></p>
 
