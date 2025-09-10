@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sergey!</h1>
 <h3 align="center">Junior Full-stack Web Developer dedicated to relentless growth and continuous improvement 🚀</h3>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=matowdev&column=-1&theme=onedark&margin-w=15&margin-h=15&no-bg=true&title=Commits,Followers,Stars,Repositories" alt="matowdev" /></a></p>
+<!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=matowdev&column=-1&theme=onedark&margin-w=15&margin-h=15&no-bg=true&title=Commits,Followers,Stars,Repositories" alt="matowdev" /></a></p> -->
 
-<!-- <p align="left"> <a href="https://twitter.com/millennialll" target="blank"><img src="https://img.shields.io/twitter/follow/millennialll?logo=twitter&style=for-the-badge" alt="millennialll" /></a> </p> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=matowdev&column=-1&theme=onedark&margin-w=15&margin-h=15&no-bg=true&title=Commits,Followers,Stars,Repositories,PullRequest)](https://github.com/matowedev/github-profile-trophy)
 
 - 🌱 I’m currently learning/path: **Full-stack developer.. React / Node.js**
 
@@ -22,14 +22,14 @@
 
 - ⚡ Fun fact: **worked eight months without a day off** 🤪
 
-<!-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mato" height="30" width="40" /></a>
-<a href="https://dev.to/mato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mato" height="30" width="40" /></a>
-<a href="https://twitter.com/millennialll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="millennialll" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15590921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15590921" height="30" width="40" /></a>
-<a href="https://codepen.io/mato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mato" height="30" width="40" /></a>
-</p> -->
+<a href="https://linkedin.com/in/matodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mato" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/mato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mato" height="30" width="40" /></a> -->
+<a href="https://twitter.com/mato_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="millennialll" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/15590921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15590921" height="30" width="40" /></a> -->
+<a href="https://codepen.io/matodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mato" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
