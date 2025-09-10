@@ -33,8 +33,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/matowdev/draft/69d42efb36dc4ae031520788c346c3f3b4f74d03/images/html-icon.svg" width="46" height="46" alt="html5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/matowdev/draft/69d42efb36dc4ae031520788c346c3f3b4f74d03/images/css-icon.svg" width="46" height="46" alt="css3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/matowdev/draft/69d42efb36dc4ae031520788c346c3f3b4f74d03/images/html-icon.svg" width="46" height="46" alt="html5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/matowdev/draft/69d42efb36dc4ae031520788c346c3f3b4f74d03/images/css-icon.svg" width="46" height="46" alt="css3"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/matowdev/draft/3b3415aa8e986677a4a93f3a3504d90c57efbbaa/images/js-icon-2.svg" width="39" height="39" alt="JavaScript"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/matowdev/draft/95769474d933033f653083f50cd81255c1e8ce5e/images/figma-icon.svg" alt="figma" width="39" height="39"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/matowdev/draft/95769474d933033f653083f50cd81255c1e8ce5e/images/bootstrap-icon.svg" alt="bootstrap" width="41" height="41"/></a>
