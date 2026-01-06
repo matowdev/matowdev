@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergey!</h1>
 <h3 align="center">Junior Full-stack Web Developer dedicated to relentless growth and continuous improvement 🚀</h3>
 
-<!-- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=matowdev&column=-1&theme=onedark&margin-w=15&margin-h=15&no-bg=true&title=Commits,Followers,Stars,Repositories" alt="matowdev" /></a></p> -->
-
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=matowdev&column=-1&theme=onedark&margin-w=15&margin-h=15&no-bg=true&title=Commits,Followers,Stars,Repositories,PullRequest)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 - 🌱 I’m currently learning/path: **Full-stack developer.. React / Node.js**
@@ -26,9 +24,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/matodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mato" height="30" width="40" /></a>
 <!-- <a href="https://dev.to/mato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mato" height="30" width="40" /></a> -->
-<a href="https://twitter.com/mato_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="millennialll" height="30" width="40" /></a>
+<a href="https://twitter.com/mato_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mato_dev" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/15590921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15590921" height="30" width="40" /></a> -->
-<a href="https://codepen.io/matodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mato" height="30" width="40" /></a>
+<a href="https://codepen.io/matodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matodev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,7 +40,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/matowdev/draft/481e2d2e667ea29ac904e41ba91628841f4ecf11/images/git-icon-2.svg" alt="git" width="39" height="39"/></a>
 </p>
 
-<div>
+<!-- <div>
 <p><img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=matowdev&show_icons=true&locale=en" alt="matowdev" /></p>
 <p>&nbsp;&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=matowdev&show_icons=true&locale=en&layout=compact" alt="matowdev" /></p>
-</div>
+</div> -->
