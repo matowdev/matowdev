@@ -15,7 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mato" height="30" width="40" />](https://linkedin.com/in/matodev/) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mato_dev" height="30" width="40" />](https://twitter.com/mato_dev/) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matodev" height="30" width="40" />](https://codepen.io/matodev/)
+<a href="https://linkedin.com/in/matodev/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mato" height="30" width="40" /></a>
+
+<!-- [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mato_dev" height="30" width="40" />](https://twitter.com/mato_dev/)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="matodev" height="30" width="40" />](https://codepen.io/matodev/) -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matowdev&show_icons=true) -->
 
