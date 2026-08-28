@@ -13,7 +13,7 @@
 - **SuiteScript & ERP Development:**
   - SuiteScript 2.1 / 2.0 (User Event, Client Script, Suitelet, Map/Reduce)
   - Platform Customization (Custom Records architecture, Workflow Action Scripts, UI configurations)
-  - Core NetSuite APIs: `N/record`, `N/search`, `N/query` (SuiteQL), `N/task`, `N/ui/serverWidget`, etc..
+  - Core Modules: `N/record`, `N/search`, `N/query` (SuiteQL), `N/task`, `N/ui/serverWidget`, etc..
 - **Languages & Tools:**
   - JavaScript (ES6+), SuiteQL
   - Git, Antigravity IDE, SuiteCloud Development Framework (SDF)
