@@ -21,6 +21,6 @@
 ### Connect with Me
 
 <!-- - 🌐 **Website:** [OnSuite.pro](https://onsuite.pro) -->
+<!-- - 💼 **LinkedIn:** [Sergey Matylionak](https://www.linkedin.com/in/matodev/) -->
 
-- 💼 **LinkedIn:** [Sergey Matylionak](https://www.linkedin.com/in/matodev/)
 - 📧 **Email:** mato.wdev@gmail.com
